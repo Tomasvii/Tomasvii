@@ -3,7 +3,7 @@
 <h1 align="center">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
 
 
-<details>
+
   <summary><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> About me!</summary>
 
 ###  Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
@@ -11,7 +11,7 @@
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
-</details>
+
 
 <br>
 
