@@ -4,9 +4,9 @@
 
 
 
-<h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi</h2>
+<h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
 
-###  Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+###  Actualmente estudiando Programación Web Full Stack en Digital House 
 - 🦾 I love the PowerLifting!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
