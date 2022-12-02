@@ -11,7 +11,7 @@
 - <a href="https://github.com/Tomasvii"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Aplicar la lógica y el pensamiento lógico.
 - <a href="https://github.com/Tomasvii"><img src="./src/ojo.svg" width="15px" height="15px" alt="libro"></a> Aprendo cosas nuevas y refuerzo mis conocimientos constantemente.
 
-
+---
 
 <br>
 
