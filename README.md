@@ -10,7 +10,6 @@
 - <a href="https://github.com/Tomasvii"><img src="./src/gameboy.svg" width="15px" height="15px" alt="gameboy"></a> Me gusta el anime y los videojuegos.
 - <a href="https://github.com/Tomasvii"><img src="./src/ojo.svg" width="15px" height="15px" alt="libro"></a> Me gusta aprender y reforzar mis conocimientos constantemente.
 - <a href="https://github.com/Tomasvii"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Me gusta la lógica y el pensamiento lógico.
-- 🗒  I am currently very obsected with learning vimscript
 
 
 <br>
