@@ -8,7 +8,7 @@
 
 ###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a>
 - <a href="https://github.com/Tomasvii"><img src="./src/gameboy.svg" width="15px" height="15px" alt="gameboy"></a> Me gusta el anime y los videojuegos.
-- 🤓  Estoy aprendiendo 
+- 🤓 Me gusta estar aprendiendo y reforzando mis conocimientos constantemente.
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
 
