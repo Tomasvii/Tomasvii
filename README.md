@@ -2,6 +2,10 @@
 <br>
 <h1 align="center">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
 
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+
+<details>
+  <summary>:zap: About me!</summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
 - 🦾 I love the PowerLifting!
@@ -10,10 +14,7 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-
-<details>
-  <summary>:zap: About me!</summary>
+<br>
 
 <div>
   <a href="https://github.com/Tomasvii">
