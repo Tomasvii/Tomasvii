@@ -9,7 +9,7 @@
 ###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a>
 - <a href="https://github.com/Tomasvii"><img src="./src/gameboy.svg" width="15px" height="15px" alt="gameboy"></a> Me gusta el anime y los videojuegos.
 - <a href="https://github.com/Tomasvii"><img src="./src/ojo.svg" width="15px" height="15px" alt="libro"></a> Me gusta aprender y reforzar mis conocimientos constantemente.
-- 👾 Me gusta la lógica y el pensamiento lógico.
+- <a href="https://github.com/Tomasvii"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Me gusta la lógica y el pensamiento lógico.
 - 🗒  I am currently very obsected with learning vimscript
 
 
