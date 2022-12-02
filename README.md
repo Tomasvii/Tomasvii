@@ -1,4 +1,4 @@
-<a href="https://github.com/Tomasvii"><img src="./src/Tomasvi.gif" width="100%" max-height="75%" alt="Banner"></a>
+<a href="https://github.com/Tomasvii"><img src="./src/Tomasvi.gif" width="100%" max-height="2%" alt="Banner"></a>
 <br>
 <h1 align="center">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
 
