@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"><img src="./src/code.GIF" width="25px" height="25px"> Lenguajes y herramientas </h3><img src="./src/code.GIF" width="25px" height="25px">
 <p align="center">
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=blueviolet"</a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet"</a>
