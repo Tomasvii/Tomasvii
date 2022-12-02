@@ -2,12 +2,8 @@
 <br>
 <h1 align="center">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
 
-
-
-<h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
-
-
 <details>
+  <summary><h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2></summary>
 ###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a>
 - <a href="https://github.com/Tomasvii"><img src="./src/gameboy.svg" width="15px" height="15px" alt="gameboy"></a> Me gusta el anime y los videojuegos.
 - <a href="https://github.com/Tomasvii"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Aplicar el pensamiento lógico.
