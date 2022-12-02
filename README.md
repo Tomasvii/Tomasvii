@@ -18,6 +18,7 @@
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
+    <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Code-CCS-informational?style=plastic&logo=css&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=git&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
     <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=github&logoColor=white&color=blueviolet" style=plastic&logo=appveyor> </a>
