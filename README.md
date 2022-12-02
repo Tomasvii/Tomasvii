@@ -1,4 +1,4 @@
-<img src="./src/Tomasvi.gif" alt="Banner">
+<img src="./src/Tomasvi.gif" width="25px" alt="Banner">
 <br>
 <h1 align="center">¡Hola, soy Tomasvi!</h1>
 
