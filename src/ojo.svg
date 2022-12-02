@@ -24,8 +24,6 @@
 	.st18{fill:none;stroke:#E3FAFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st19{fill:#354C75;stroke:#354C75;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<path class="st5" d="M24,26H6c-2.2,0-4-1.8-4-4V8c0-2.2,1.8-4,4-4h18c2.2,0,4,1.8,4,4v14C28,24.2,26.2,26,24,26z"/>
-<circle class="st10" cx="5.5" cy="7.5" r="0.5"/>
-<circle class="st10" cx="9.5" cy="7.5" r="0.5"/>
-<circle class="st10" cx="13.5" cy="7.5" r="0.5"/>
+<path class="st3" d="M29,15c0,0-6.8,9-14,9S1,15,1,15s6.8-9,14-9S29,15,29,15z"/>
+<circle class="st18" cx="15" cy="15" r="5"/>
 </svg>
