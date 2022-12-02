@@ -6,7 +6,7 @@
 
 <h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
 
-###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a>
+###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="20px" height="20px" alt="laptop"></a>
 - <a href="https://github.com/Tomasvii"><img src="./src/gameboy.svg" width="20px" height="20px" alt="gameboy"></a> Me gusta el anime y los videojuegos.
 - <a href="https://github.com/Tomasvii"><img src="./src/aprender.svg" width="20px" height="20px" alt="libro"></a> Me gusta aprender y reforzando mis conocimientos constantemente.
 - 👾  I am very curious and that is why you start studying programming
