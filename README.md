@@ -4,6 +4,17 @@
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
+<details>
+  <summary>:zap: About me!</summary>
+
+### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+- 🦾 I love the PowerLifting!
+- 🤓  I’m currently learning everything
+- 👾  I am very curious and that is why you start studying programming
+- 🗒  I am currently very obsected with learning vimscript
+</details>
+
+
 <div>
   <a href="https://github.com/Tomasvii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomasvii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
