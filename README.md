@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://github.com/Tomasvii"><h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px" alt="stats"> GitHub Stats</h3>>
+<a href="https://github.com/Tomasvii"<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px" alt="stats"> GitHub Stats</h3>>
 
 <div>
   <a href="https://github.com/Tomasvii">
