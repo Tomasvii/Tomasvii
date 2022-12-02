@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFTn_ETRnI/watch" alt="Banner">
+<img src="./src/Tomasvi.gif" alt="Banner">
 <br>
 <h1 align="center">¡Hola, soy Tomasvi!</h1>
 
