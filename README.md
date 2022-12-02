@@ -4,7 +4,7 @@
 
 
 
-  <summary><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> About me!</summary>
+<summary><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> About me!</summary>
 
 ###  Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
 - 🦾 I love the PowerLifting!
