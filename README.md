@@ -6,7 +6,7 @@
 
 <h2><a href="https://github.com/Tomasvii"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
 
-###  Actualmente estudiando Programación Web Full Stack en Digital House <a href="https://github.com/Tomasvii"><img src="./src/laptop.png" width="15px" height="15px" alt="laptop"></a>
+###  Actualmente estudiando Programación Web Full Stack en Digital House <a href="https://github.com/Tomasvii"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a>
 - 🦾 I love the PowerLifting!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
