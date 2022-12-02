@@ -13,6 +13,13 @@
 
 ---
 
+<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<p align="center">
+    <a href="https://github.com/Tomasvii"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet"/> </a>
+</p>
+
+---
+
 <br>
 
 <h3 align="left"><a href="https://github.com/Tomasvii"><img src="./src/estadistica.gif" width="25px" height="25px" alt="stats"></a>   GitHub Stats</h3>
