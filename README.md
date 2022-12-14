@@ -13,9 +13,9 @@
 
 <h3 align="center"><a href="#"><img src="./src/code.gif" width="25px" height="25px"></a> Lenguajes y herramientas <a href="#"><img src="./src/code.gif" width="25px" height="25px"></a></h3>
 <p align="center">
-    <a href="#" :hover="none"><img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=blueviolet"</a>
-    <a href="#"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet"</a>
-    <a href="#"><img src="https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=blueviolet"</a>
+  <a href="#"><img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=blueviolet"</a>
+  <a href="#"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet"</a>
+  <a href="#"><img src="https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=blueviolet"</a>
   <a href="#"><img src="https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blueviolet"</a>
   <a href="#"><img src="https://img.shields.io/badge/Code-CCS3-informational?style=plastic&logo=css3&logoColor=white&color=blueviolet"</a>
   <a href="#"><img src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=blueviolet"</a>
