@@ -23,6 +23,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=git&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=github&logoColor=white&color=blueviolet" style=plastic&logo=appveyor/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tools-Trello-informational?style=plastic&logo=trello&logoColor=white&color=blueviolet"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tools-Render-informational?style=plastic&logo=render&logoColor=white&color=blueviolet"/></a>
 </p>
 
 ---
