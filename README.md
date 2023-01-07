@@ -38,12 +38,4 @@
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>
 
-<a href="https://github.com/Tomasvii">![Snake animation](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.svg)</a>
-
-uses: Platane/snk@v2
-with:
-  github_user_name: ${{ github.repository_owner }}
-  outputs: |
-    dist/github-snake.svg
-    dist/github-snake-dark.svg?palette=github-dark
-    dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<a href="#">![Snake animation](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.svg)</a>
