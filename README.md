@@ -9,7 +9,7 @@
 - <a href="#"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Aplicar el pensamiento lógico.
 - <a href="#"><img src="./src/ojo.svg" width="15px" height="15px" alt="libro"></a> Aprender cosas nuevas y reforzar mis conocimientos constantemente.
 
---- 
+---
 
 <h3 align="center"><a href="#"><img src="./src/code.gif" width="25px" height="25px"></a> Lenguajes y herramientas <a href="#"><img src="./src/code.gif" width="25px" height="25px"></a></h3>
 <p align="center">
