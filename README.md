@@ -38,4 +38,4 @@
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>
 
-![snake gif](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.gif)
+<a href="#">![Snake animation](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.svg)</a>
