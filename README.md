@@ -34,8 +34,8 @@
 <h3 align="left"><a href="#"><img src="./src/estadistica.gif" width="25px" height="25px" alt="stats"></a>   GitHub Stats</h3>
 
 <div>
-  <a href="#"><img height="180em" src="https://github-readme-stats-git-master-tomasvii.vercel.app/api?username=Tomasvii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a> <br>
-  <a href="#"><img height="180em" src="https://github-readme-stats-git-master-tomasvii.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomasvii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a> <br>
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>
 
 <a href="#">![Snake animation](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.svg)</a>
