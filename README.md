@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center"><a href="#"><img src="./src/code.gif" width="25px" height="25px"></a> Lenguajes y herramientas <a href="#"><img src="./src/code.gif" width="25px" height="25px"></a></h3>
+<h3 align="center"><a href="#"><img src="./src/code.gif" width="25px" height="25px"></a> Lenguajes y herramientas <a href="#"><img src="./src/code.gif" width="25px" height="25px"></a></h3> 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet"/></a>
