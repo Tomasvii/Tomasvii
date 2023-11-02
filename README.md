@@ -39,4 +39,6 @@
   <a href="#"><img height="180em" src="https://github-readme-stats-git-master-tomasvii.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>
 
-<a href="#">![Snake animation](https://github.com/Tomasvii/Tomasvii/blob/output/github-contribution-grid-snake.svg)</a>
+<a href="#">              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            </a>
