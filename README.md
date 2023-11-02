@@ -39,12 +39,4 @@
   <a href="#"><img height="180em" src="https://github-readme-stats-git-master-tomasvii.vercel.app/api/top-langs/?username=Tomasvii&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>
 
-<a href="#">
-- name: generate github-contribution-grid-snake.svg
-  uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-contribution-grid-snake.svg
-      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-</a>
+<a href="#">![](https://raw.githubusercontent.com/Tomasvii/output/github-contribution-grid-snake.svg)</a>
