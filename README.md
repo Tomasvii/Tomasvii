@@ -1,6 +1,6 @@
 <a href="#"><img src="./src/Tomasvi.gif" width="100%" alt="Banner"></a>
 <br>
-<h1 align="center" color="purple">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
+<h1 align="center">¡Hola, soy Tomás Villarreal - Tomasvi!</h1>
 
 <h2><a href="#"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
 
