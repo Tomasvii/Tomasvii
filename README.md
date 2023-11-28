@@ -4,7 +4,7 @@
 
 <h2><a href="#"><img src="./src/alien.png" width="25px" height="25px" alt="alien"></a> Sobre mi:</h2>
 
-###  Actualmente estudiando Programación Web Full Stack en Digital House. <a href="#"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a> 
+###  Programador Web Full Stack con certificación de Digital House. <a href="#"><img src="./src/laptop.svg" width="15px" height="15px" alt="laptop"></a> 
 - <a href="#"><img src="./src/gameboy.svg" width="15px" height="15px" alt="gameboy"></a> Me gustan los videojuegos.
 - <a href="#"><img src="./src/logica.svg" width="15px" height="15px" alt="logica"></a> Aplicar el pensamiento lógico.
 - <a href="#"><img src="./src/ojo.svg" width="15px" height="15px" alt="libro"></a> Aprender cosas nuevas y reforzar mis conocimientos constantemente.
