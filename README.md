@@ -19,8 +19,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code-EJS-informational?style=plastic&logo=node.js&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code-CCS3-informational?style=plastic&logo=css3&logoColor=white&color=blueviolet"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=blueviolet"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Framework-Express-informational?style=plastic&logo=express&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blueviolet"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=git&logoColor=white&color=blueviolet"/></a>
